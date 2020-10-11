@@ -1,0 +1,20 @@
+
+CREATE TABLE `page` (
+  ID int(11) NOT NULL AUTO_INCREMENT,
+  `Name` varchar(45) DEFAULT NULL,
+  Description varchar(500) DEFAULT NULL,
+  created_at timestamp NULL DEFAULT CURRENT_TIMESTAMP,
+  UserID int(11) DEFAULT '1',
+  PRIMARY KEY (ID)
+);
+
+
+CREATE TABLE post (
+  ID int(11) NOT NULL AUTO_INCREMENT,
+  PageID int(11) DEFAULT NULL REFERENCES page (ID),
+  PostTitle varchar(250) NOT NULL,
+  PostBody longtext,
+  created_at timestamp NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (ID),
+  KEY fk_post_1_idx (PageID)
+)
