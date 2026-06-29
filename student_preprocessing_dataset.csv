@@ -1,0 +1,41 @@
+Student_ID,Name,Age,Gender,Department,Attendance,Marks,City
+101,Rahul,20.0,Male,CSE,90,85.0,Bangalore
+102,Priya,21.0,Female,ISE,88,91.0,Mysore
+103,Amit,,Male,ECE,80,76.0,Hubli
+104,Sneha,22.0,Female,CSE,92,,Bangalore
+105,Kiran,20.0,Male,ME,85,68.0,Belgaum
+106,Rahul,20.0,Male,CSE,90,85.0,Bangalore
+107,Anita,21.0,female,ISE,87,82.0,Mysore
+108,Vijay,19.0,Male,ECE,95,150.0,Hubli
+109,Pooja,20.0,Female,,91,89.0,Mangalore
+110,Ravi,22.0, Male ,CSE,93,90.0,Bangalore
+111,Arjun,20.0,Male,ECE,82,77.0,Belgaum
+112,Neha,21.0,Female,CSE,92,96.0,Belgaum
+113,Rohan,22.0,Female,ECE,89,92.0,Hubli
+114,Divya,20.0,Female,ECE,81,65.0,Belgaum
+115,Manoj,23.0,Male,ECE,94,77.0,Hubli
+116,Kavya,,Female,CSE,78,71.0,Mangalore
+117,Suresh,19.0,Male,ISE,85,97.0,Belgaum
+118,Asha,22.0,Male,CSE,96,91.0,Belgaum
+119,Nikhil,20.0,Male,CSE,94,,Belgaum
+120,Meera,19.0,Male,CSE,76,96.0,Belgaum
+121,Harish,22.0,Male, cse ,96,92.0,Bangalore
+122,Deepa,21.0,Male,ECE,80,96.0,Bangalore
+123,Varun,20.0,FEMALE,ECE,79,70.0,Hubli
+124,Nisha,22.0,Male,ECE,80,58.0,Mysore
+125,Akash,22.0,Female,CSE,75,93.0,Mysore
+126,Swathi,23.0,Male,ME,75,59.0, Bangalore 
+127,Rakesh,19.0,Male,ISE,91,64.0,Mangalore
+128,Anjali,22.0,Female,ISE,81,64.0,Hubli
+129,Yash,22.0,Male,ME,78,75.0,Hubli
+130,Komal,20.0,Female,ISE,96,96.0,Hubli
+131,Ritesh,21.0,Male,ECE,86,63.0,Bangalore
+132,Bhavna,20.0,Male,CSE,92,74.0,Hubli
+133,Kunal,19.0,Male,ECE,79,68.0,Bangalore
+134,Isha,19.0,Male,ECE,83,93.0,Belgaum
+135,Tarun,23.0,Male,ISE,87,55.0,Bangalore
+136,Lavanya,22.0,Male,ME,89,65.0,Hubli
+137,Girish,19.0,Male,ME,89,55.0,Belgaum
+138,Preeti,22.0,Female,ECE,87,77.0,Hubli
+139,Sachin,19.0,Male,CSE,75,76.0,Hubli
+140,Monika,19.0,Female,CSE,96,57.0,Hubli
